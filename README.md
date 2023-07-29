@@ -16,6 +16,7 @@
 <a href="https://instagram.com/jalison_sousa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href="https://discord.gg/a9JNMbcRTn" target="_blank"><img src="https://img.shields.io/badge/-discord-%23E4405F?style=for-the-badge&logo=discord&logoColor=white"</a>
 </div>
+</br>
  
 ![Html](https://img.shields.io/badge/-html-0D1117?style=for-the-badge&logo=html5&labelColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;
