@@ -2,17 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FA1019&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+name+is+Jalison+Sousa;I'm+22+years+old;I'm+from+Brazil;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-
-<div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&show_icons=true&count_private=true&hide_border=true&title_color=FA1019&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="jalisonsousa github stats" /> 
-  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisonsousa&layout=compact&hide_border=true&title_color=FA1019&text_color=ff91a4&bg_color=0d1117" />
-</div>
-
-
-<div align="center"> 
-<a href="https://instagram.com/jalison_sousa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https://discord.gg/a9JNMbcRTn" target="_blank"><img src="https://img.shields.io/badge/-discord-%23E4405F?style=for-the-badge&logo=discord&logoColor=white"</a>
-</div>
 </br>
 
  ## Ola eu sou a Jalison Sousa, curto area de programação e tecnologia!
@@ -31,7 +20,11 @@
   <a href="https://www.youtube.com/channel/UC_-uuuZbY0AAt9CViNzvc-Q" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/jalison_sousa1" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.gg/a9JNMbcRTn" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&show_icons=true&count_private=true&hide_border=true&title_color=FA1019&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="jalisonsousa github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisonsousa&layout=compact&hide_border=true&title_color=FA1019&text_color=ff91a4&bg_color=0d1117" />
+</div>
 
 <div align="center">
 <br><p align="centre"><b>Visitantes</b></p>  
