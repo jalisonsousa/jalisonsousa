@@ -1,8 +1,5 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=FA1019&height=120&section=header"/>
 
-
-</br>
-
  ## Olá, eu sou a Jalison Sousa, curto area de programação e tecnologia!
 
 
