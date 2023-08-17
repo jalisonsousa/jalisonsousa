@@ -1,16 +1,16 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=fa0f18&height=120&section=header"/>
 
- ## Olá, Me chamo Jalison Sousa, curto área de programação e tecnologia!
-
+## Olá, Me chamo Jalison Sousa, curto área de programação e tecnologia!
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Jalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Jalison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Jalison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Jalison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<img align="center" alt="Jalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Jalison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<img align="center" alt="Jalison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Jalison-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+<img align="center" alt="Jalison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
   
-  ##
+  #
  
 <div> 
   <a href="https://www.youtube.com/@JalisonBR" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
@@ -27,6 +27,5 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jalisonsousa}/count.svg" /></p> 
 <br>
 </div>
-
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
