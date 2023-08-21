@@ -33,7 +33,7 @@
   <!-- Projetos Destacados -->
 ## 🚀 Projetos Destacados
 
-- [**JSNote**](https://github.com/jalisonsousa/JSNote): Bloco de notas simplez .
+- [**JSNote**](https://github.com/jalisonsousa/JSNote): Bloco de notas simples .
 - [**JSUpload-files**](https://github.com/jalisonsousa/JSUpload-files): Upload de imagens e pdf simples.
 
 <!-- Estatísticas -->
