@@ -19,7 +19,7 @@
  </a>
 </p>
 
-## 🔧 Habilidades
+## 🔧 Aprendendo
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Jalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -33,7 +33,7 @@
   <!-- Projetos Destacados -->
 ## 🚀 Projetos Destacados
 
-- [**JSNote**](https://github.com/jalisonsousa/JSNote): Bloco de notas simples usando chat GPT .
+- [**JSNote**](https://github.com/jalisonsousa/JSNote): Bloco de notas simplez .
 - [**JSUpload-files**](https://github.com/jalisonsousa/JSUpload-files): Upload de imagens e pdf simples.
 
 <!-- Estatísticas -->
