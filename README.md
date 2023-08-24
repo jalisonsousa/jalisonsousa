@@ -40,8 +40,8 @@
 ## 📊 Estatísticas do GitHub
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa"
-    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&show_icons=true&count_private=true&hide_border=true&title_color=FA1019&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="jalisonsousa github stats" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&title_color=FA1019&show_icons=trueicon_color=ffffff&text_color=c9d1d9&bg_color=0d1117"
+    <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&title_color=FA1019&show_icons=true&count_private=true&hide_border=true&title_color=FA1019&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="jalisonsousa github stats" /> 
     <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisonsousa&layout=compact&hide_border=true&title_color=FA1019&text_color=ffffff&bg_color=0d1117" />
 </div>
 
