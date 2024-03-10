@@ -22,19 +22,12 @@
 ## 🔧 Aprendendo
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Jalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+    <!-- <img align="center" alt="Jalison-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
     <img align="center" alt="Jalison-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
     <img align="center" alt="Jalison-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Jalison-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
+    <img align="center" alt="Jalison-Php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">-->
     <img align="center" alt="Jalison-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
-
-  
-  <!-- Projetos Destacados -->
-## 🚀 Projetos Destacados
-
-- [**JSNote**](https://github.com/jalisonsousa/JSNote): Bloco de notas simples .
-- [**JSUpload-files**](https://github.com/jalisonsousa/JSUpload-files): Upload de imagens e pdf simples.
 
 <!-- Estatísticas -->
 ## 📊 Estatísticas do GitHub
