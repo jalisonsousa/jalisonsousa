@@ -2,7 +2,7 @@
 
 
 <!-- Título -->
-<h1 align="center">👋 Olá, eu sou Jalison Sousa</h1>
+<h1 align="center">👋 Olá, me chamo Jalison </h1>
 
 <!-- Descrição e Redes Sociais -->
 <p align="center">
@@ -30,7 +30,7 @@
 </div>
 
 <!-- Estatísticas -->
-## 📊 Estatísticas do GitHub
+## 📊 Estatísticas
 
 <div align="center">  
   <img width="49%" height="200px" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&title_color=FA1019&show_icons=trueicon_color=ffffff&count_private=true&hide_border=true&icon_color=ffffff&text_color=c9d1d9&bg_color=0d1117" alt="jalisonsousa github stats" />
@@ -43,12 +43,4 @@
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{jalisonsousa}/count.svg" /></p> 
 <br>
 </div>
-
-<!-- Agradecimento -->
-## ✨ Obrigado por Visitar
-
-<p align="center">
-  Espero que tenha gostado da minha página do GitHub.
-</p>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=120&section=footer"/>
