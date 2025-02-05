@@ -8,7 +8,8 @@
   <!-- Descrição -->
   <p align="center">
     <i>
-      "Gosto de programação |  Áreas de tecnologia."<br>
+      "Gosto de programação |  Áreas de tecnologia | Jogos de simulação de hackers"<br>
+      "Desenvolvo alguns sites, inicialmente para uso pessoal, mas alguns disponibilizo para o público."
     </i>
   </p>
 
