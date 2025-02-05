@@ -24,9 +24,6 @@
     <a href="https://discord.gg/6aAeDSbr6D" target="_blank">
       <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" title="Discord">
     </a>
-    <a href="mailto:seuemail@exemplo.com">
-      <img src="https://img.icons8.com/color/48/gmail.png" alt="Gmail" title="Gmail">
-    </a>
   </div>
 
   <!-- Divisor -->
