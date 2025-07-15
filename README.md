@@ -15,13 +15,13 @@
 
   <!-- Redes Sociais -->
   <div align="center">
-    <a href="https://www.youtube.com/@JalisonBR" target="_blank">
+    <a href="https://www.youtube.com/@JalisonBR" target="_blank" rel="noopener">
       <img src="https://img.icons8.com/color/48/youtube-play.png" alt="YouTube" title="YouTube">
     </a>
-    <a href="https://instagram.com/jalison_sousa1" target="_blank">
+    <a href="https://instagram.com/jalison_sousa1" target="_blank" rel="noopener">
       <img src="https://img.icons8.com/fluency/48/instagram-new.png" alt="Instagram" title="Instagram">
     </a>
-    <a href="https://discord.gg/6aAeDSbr6D" target="_blank">
+    <a href="https://discord.gg/6aAeDSbr6D" target="_blank" rel="noopener">
       <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" title="Discord">
     </a>
   </div>
@@ -31,9 +31,9 @@
 
   ## Alguns Projetos, você encontra no meu Site
   
-  [Jalisonbr.com](https://Jalisonbr.com)
+  [Jalisonbr.com](https://jalisonbr.com)
 
-<!-- Divisor -->
+  <!-- Divisor -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="30px">
   
   <!-- Habilidades -->
@@ -54,9 +54,9 @@
   ## 📈 GitHub Analytics
   
   <div align="center">
-    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&show_icons=true&theme=radical">
-    <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jalisonsousa&theme=radical">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisonsousa&layout=compact&theme=radical">
+    <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jalisonsousa&show_icons=true&theme=radical" alt="GitHub Stats">
+    <!--<img width="48%" src="https://github-readme-streak-stats.vercel.app/?user=jalisonsousa&theme=radical" alt="GitHub Streak"> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jalisonsousa&layout=compact&theme=radical" alt="Top Languages">
   </div>
 
   <!-- Divisor -->
@@ -68,7 +68,7 @@
     <img src="https://komarev.com/ghpvc/?username=jalisonsousa&color=blue&style=flat-square" alt="Profile Views">
   </div>
   
-<!-- Divisor -->
+  <!-- Divisor -->
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" height="30px">
   
   ## 🏆 GitHub Trophies
